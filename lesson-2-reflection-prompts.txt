@@ -16,3 +16,5 @@ the diagram the way we do?
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+  I think it is important to do the git checkout -b nameofbranch
+  this willmake a new branch then it will check it out.
